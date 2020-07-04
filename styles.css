@@ -1,0 +1,37 @@
+/**************************************Tag Selectors***********************************************************/
+
+body{
+  background-color:#FAFAD2;
+}
+h1{
+  color:green;
+}
+h3{
+  color: green;
+}
+hr
+{
+  border-style: dashed none none;
+  border-color: grey;
+  border-width: 2px;
+}
+img{
+  background-color:blue;
+  height:400px;
+}
+
+
+/*************************************ID Selectors*****************************************************/
+
+  #heading{
+    color:blue;
+  }
+
+
+/**********************************changing the bg color instantly*******************and also sample code for how to change it
+  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/209/lemon_1f34b.png" alt="lemon">
+
+
+  img:hover{
+    background-color: blue;
+  }
